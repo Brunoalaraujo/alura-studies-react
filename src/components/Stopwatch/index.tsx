@@ -9,7 +9,7 @@ export default function Cronomentro() {
       <div className={style.relogioWrapper}>
         <Relogio />
       </div>
-      <Botao texto="Começa!" />
+      <Botao>Começar!</Botao>
     </div>
   );
 }
